@@ -1,6 +1,6 @@
-package Step2Bonus1.enumiration;
+package carSimulation.enumiration;
 
-import Step2Bonus1.utilities.Colors;
+import carSimulation.utilities.Colors;
 
 public enum Scale {
     INCREASE(Colors.RED+"Данные значения после увеличения масштаба"),

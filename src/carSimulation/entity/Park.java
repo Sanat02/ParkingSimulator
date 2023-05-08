@@ -1,8 +1,8 @@
-package Step2Bonus1.entity;
+package carSimulation.entity;
 
 import java.util.*;
 
-import static Step2Bonus1.utilities.Colors.CYAN;
+import static carSimulation.utilities.Colors.CYAN;
 
 
 public class Park {

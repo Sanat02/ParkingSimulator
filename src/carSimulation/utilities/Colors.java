@@ -1,4 +1,4 @@
-package Step2Bonus1.utilities;
+package carSimulation.utilities;
 
 public class Colors {
     public static final String RST = "\033[0m";

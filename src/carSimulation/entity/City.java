@@ -1,11 +1,11 @@
-package Step2Bonus1.entity;
+package carSimulation.entity;
 
-import Step2Bonus1.utilities.Colors;
+import carSimulation.utilities.Colors;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static Step2Bonus1.utilities.Rnd.rnd;
+import static carSimulation.utilities.Rnd.rnd;
 
 
 public class City {

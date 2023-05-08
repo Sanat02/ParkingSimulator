@@ -1,4 +1,4 @@
-package Step2Bonus1;
+package carSimulation;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

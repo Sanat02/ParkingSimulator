@@ -1,4 +1,4 @@
-package Step2Bonus1.entity;
+package carSimulation.entity;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

@@ -1,4 +1,4 @@
-package Step2Bonus1;
+package carSimulation;
 
 public class Main {
 

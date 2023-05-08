@@ -1,7 +1,7 @@
-package Step2Bonus1;
+package carSimulation;
 
-import Step2Bonus1.enumiration.Scale;
-import Step2Bonus1.utilities.Colors;
+import carSimulation.enumiration.Scale;
+import carSimulation.utilities.Colors;
 
 import java.util.List;
 

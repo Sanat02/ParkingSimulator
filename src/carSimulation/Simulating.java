@@ -1,18 +1,18 @@
-package Step2Bonus1;
+package carSimulation;
 
-import Step2Bonus1.entity.Action;
-import Step2Bonus1.entity.City;
-import Step2Bonus1.entity.Park;
-import Step2Bonus1.entity.Register;
-import Step2Bonus1.stateOfCar.States;
-import Step2Bonus1.utilities.Colors;
+import carSimulation.entity.Action;
+import carSimulation.entity.City;
+import carSimulation.entity.Park;
+import carSimulation.entity.Register;
+import carSimulation.stateOfCar.States;
+import carSimulation.utilities.Colors;
 
 import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.util.*;
 
-import static Step2Bonus1.utilities.Rnd.rnd;
+import static carSimulation.utilities.Rnd.rnd;
 
 public class Simulating {
     private final City city;

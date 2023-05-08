@@ -1,8 +1,8 @@
-package Step2Bonus1.entity;
+package carSimulation.entity;
 
-import Step2Bonus1.Histogram;
-import Step2Bonus1.enumiration.Scale;
-import Step2Bonus1.utilities.Colors;
+import carSimulation.Histogram;
+import carSimulation.enumiration.Scale;
+import carSimulation.utilities.Colors;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

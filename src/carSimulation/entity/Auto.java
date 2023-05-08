@@ -1,7 +1,7 @@
-package Step2Bonus1.entity;
+package carSimulation.entity;
 
-import Step2Bonus1.stateOfCar.States;
-import Step2Bonus1.utilities.Colors;
+import carSimulation.stateOfCar.States;
+import carSimulation.utilities.Colors;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

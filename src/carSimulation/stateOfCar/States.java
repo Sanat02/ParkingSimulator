@@ -1,6 +1,6 @@
-package Step2Bonus1.stateOfCar;
+package carSimulation.stateOfCar;
 
-import Step2Bonus1.entity.Auto;
+import carSimulation.entity.Auto;
 
 
 public enum States implements State {
