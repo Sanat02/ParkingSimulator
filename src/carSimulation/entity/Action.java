@@ -73,7 +73,7 @@ public class Action {
     }
 
     public void histogramOfLess30MinPark() {
-        String text = "По определенному номеру машины вывести все дни, в которые эта машина была на парковке.";
+        String text = "Общее количество машин припаркованных менее 30 минут в день за весь период симуляции";
         List<Double> list = getLess30minuteDuration();
         System.out.println();
         Histogram.printHistogram(list, Scale.NO_CHANGE, text);
